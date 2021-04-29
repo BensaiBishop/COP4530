@@ -1,0 +1,7 @@
+# Benjamin Bishop
+# COP 4530 Project 3
+# Clear() complexity
+
+The clear() function I implemented into my stack used a while loop to call the pop() function.
+The function removes every element that it iterates to, only encountering them once.
+Therefore the time complexity is linear; O(n)

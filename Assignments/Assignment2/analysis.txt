@@ -1,0 +1,8 @@
+
+Analyze the worst-case run-time complexities of the member functions reverse() and remove_if().
+for reverse()
+
+Reverse would start from the head and make its way to nullptr while still in the loop, it should be O(n),
+	where n is the number of elements in the list or nodes.
+Remove_if would be similar as it runs through the list checking for the matchin criteria, this loop ends
+	once it reached the end of the list. It should be 0(n) where n is the number of elements in the list.

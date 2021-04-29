@@ -1,0 +1,7 @@
+Benjamin Bishop
+COP4530
+12 Mar 2021
+
+Big O analysis of the makeEmpty(BinaryNode* & t) function.
+From the leaves to the base of the tree, the function deletes node.
+The time complexity in Big-O notation is O(n).

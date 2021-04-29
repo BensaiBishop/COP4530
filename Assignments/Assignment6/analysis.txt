@@ -1,0 +1,12 @@
+Benjamin Bishop
+Assignment 6
+07 Apr.2021
+
+For the reading of the input set.
+The reading is contained in a single while loop so the Big O would be O(n).
+
+For storing the characters in a map.
+Would be O(log N), due to the complexity of the insert function.
+
+Final tracking of in on the data types, due nested for loop the complexity would be O(n^2).
+As well as the deciding of top ten would be O(n^2). 

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/bensa/CLionProjects/untitled2/driver.cpp
+iostream
+-
+string
+-
+tlist.h
+/cygdrive/c/Users/bensa/CLionProjects/untitled2/tlist.h
+
+/cygdrive/c/Users/bensa/CLionProjects/untitled2/tlist.h
+iostream
+-
+utility
+-
+tnode.h
+/cygdrive/c/Users/bensa/CLionProjects/untitled2/tnode.h
+tlist.hpp
+/cygdrive/c/Users/bensa/CLionProjects/untitled2/tlist.hpp
+
+/cygdrive/c/Users/bensa/CLionProjects/untitled2/tlist.hpp
+iostream
+-
+utility
+-
+string
+-
+tlist.h
+/cygdrive/c/Users/bensa/CLionProjects/untitled2/tlist.h
+
+/cygdrive/c/Users/bensa/CLionProjects/untitled2/tnode.h
+utility
+-
+
